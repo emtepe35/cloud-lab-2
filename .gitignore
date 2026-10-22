@@ -57,6 +57,8 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 terraform.rc
+*.tfplan
+secrets_new.yaml
 
 # spakowany kod Functions
 tofu/**/*.zip
